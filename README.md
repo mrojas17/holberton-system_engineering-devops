@@ -1,0 +1,1 @@
+Repository for working on Shell projects and others.
