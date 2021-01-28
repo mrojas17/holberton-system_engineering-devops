@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod guo+x d*
+chmod a+x d*
